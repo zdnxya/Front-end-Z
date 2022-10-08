@@ -3,6 +3,7 @@ rencana belajar
 *ES6
 *Framewwork JS
  ^Vue
+ ^React
 -Tailwind CSS
 -php
  ^Laravel
