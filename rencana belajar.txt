@@ -1,0 +1,5 @@
+rencana belajar
+-Javascript
+*ES6
+*Framewwork JS
+-php
