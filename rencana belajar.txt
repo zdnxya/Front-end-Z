@@ -2,8 +2,10 @@ rencana belajar
 -Javascript
 *ES6
 *Framewwork JS
- ^Angular
+ ^Vue
  ^React
 -Tailwind CSS
 -php
  ^Laravel
+ -Python
+
