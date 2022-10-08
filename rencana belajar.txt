@@ -2,4 +2,5 @@ rencana belajar
 -Javascript
 *ES6
 *Framewwork JS
+-Tailwind CSS
 -php
